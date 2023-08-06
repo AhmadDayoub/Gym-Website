@@ -23,7 +23,7 @@ Thanks for checking out this front-end coding challenge.
 
 ## Author
 
-- Linkedin - [@aous-shaheen-381636221](linkedin.com/in/ahmad-dayoub-)
+- Linkedin - (https://www.linkedin.com/in/ahmad-dayoub-)
 
 
 By me 🚀🚀🚀
