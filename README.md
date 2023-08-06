@@ -9,7 +9,7 @@ Thanks for checking out this front-end coding challenge.
 ### Links
 
 - Solution URL: [Github](https://github.com/AhmadDayoub/Gym-Website)
-- Live Site URL: [Live Site](majestic-chebakia-f68ada.netlify.app)
+- Live Site URL: [Live Site](https://majestic-chebakia-f68ada.netlify.app/)
 
 ## My process
 
